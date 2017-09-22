@@ -1,0 +1,7 @@
+#Wed Sep 20 22:06:20 ICT 2017
+base.0=D\:\\HANDY\\Tugas Kuliah\\KAK DWI ANDROID\\Android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_64d5e979f67ad56b3515fb28c700a17d82ea59e9
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\HANDY\\Tugas Kuliah\\KAK DWI ANDROID\\Android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_09a168e1e7a838acbe84b85c5bce7b49469b98d7\\classes.dex
+base.1=D\:\\HANDY\\Tugas Kuliah\\KAK DWI ANDROID\\Android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_09a168e1e7a838acbe84b85c5bce7b49469b98d7
+file.0=D\:\\HANDY\\Tugas Kuliah\\KAK DWI ANDROID\\Android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_64d5e979f67ad56b3515fb28c700a17d82ea59e9\\classes.dex
